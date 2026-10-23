@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-10-22T15:01:55.692722Z",
+  "selectedSubskills": [
+    {
+      "name": "game-visual-qa",
+      "reason": "playable browser game requires page and asset visual QA",
+      "requiredMethod": "follow game-visual-qa required reading, asset/page QA workflow, and report format"
+    },
+    {
+      "name": "create-web-work",
+      "reason": "publish the game as a Cohub Work",
+      "requiredMethod": "neta work init/publish web works/games/<slug>"
+    }
+  ],
+  "requiredReading": [
+    "game-maker/SKILL.md",
+    "game-maker/docs/ROUTING.md",
+    "game-maker/docs/GAME_MAKER_PROTOCOL.md",
+    "game-maker/docs/WORKFLOW.md",
+    "game-maker/docs/ACCEPTANCE.md",
+    "game-maker/docs/MOBILE_SHARE_PLAYABILITY.md",
+    "game-maker/docs/PRODUCTION_ASSET_POLICY.md",
+    "game-maker/docs/OUTPUT_CONTRACT.md",
+    "game-maker/docs/FAILURE_POLICY.md",
+    "game-maker/docs/QA_GATE.md",
+    "game-visual-qa/SKILL.md",
+    "create-web-work/SKILL.md"
+  ],
+  "stageEvidence": {
+    "understand": [
+      "protocol/task-classification.md"
+    ],
+    "inspect": [
+      "protocol/build-plan.md"
+    ],
+    "plan": [
+      "protocol/asset-requirements.json",
+      "protocol/build-plan.md"
+    ],
+    "build": [
+      "index.html",
+      "js/main.js",
+      "js/engine/sim.js",
+      "js/engine/ai.js",
+      "js/engine/roster.js",
+      "js/render/models.js",
+      "js/render/arena.js",
+      "js/render/vfx.js",
+      "js/render/stage.js",
+      "js/input.js",
+      "css/style.css"
+    ],
+    "validate": [
+      "qa/visual-qa-report.md",
+      "protocol/visual-qa-evidence.json",
+      "protocol/semantic-visual-review.json",
+      "protocol/gameplay-loop-qa.json",
+      "protocol/mobile-core-loop-qa.json",
+      "qa/tests/sim-roundrobin-result.txt"
+    ],
+    "repair": [
+      "qa/visual-qa-report.md#repairs"
+    ],
+    "deliver": [
+      "meta.json",
+      "protocol/validation-final.json"
+    ]
+  },
+  "completion": {
+    "status": "passed",
+    "missingRequirements": []
+  }
+}

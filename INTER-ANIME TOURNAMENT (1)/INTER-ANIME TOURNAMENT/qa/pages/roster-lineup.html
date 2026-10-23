@@ -1,0 +1,20 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#0c0a1f;overflow:hidden}canvas{display:block}</style></head>
+<body><canvas id="c"></canvas><script type="module">
+import * as THREE from '../../js/vendor/three.module.min.js';
+import { PLAYABLE } from '../../js/engine/roster.js';
+import { buildFighter, animateRig } from '../../js/render/models.js';
+import { Fighter } from '../../js/engine/sim.js';
+const W = 1600, H = 900;
+const r = new THREE.WebGLRenderer({ canvas: document.getElementById('c'), antialias: true }); r.setSize(W, H); r.outputColorSpace = THREE.SRGBColorSpace;
+const scene = new THREE.Scene(); scene.background = new THREE.Color(0x1a1640);
+scene.add(new THREE.HemisphereLight(0x9fb0ff, 0x2a1a45, 0.9)); const d = new THREE.DirectionalLight(0xffffff, 2.2); d.position.set(3, 8, 10); scene.add(d);
+const cam = new THREE.OrthographicCamera(-8, 8, 4.5, -4.5, 0.1, 100); cam.position.set(0, 1.0, 20); cam.lookAt(0, 1.0, 0);
+PLAYABLE.forEach((def, i) => {
+  const rig = buildFighter(def); const row = Math.floor(i / 8), col = i % 8;
+  rig.root.position.set(-7 + col * 2, row === 0 ? 2.3 : -2.0, 0); rig.root.rotation.y = 0.35;
+  const f = new Fighter(def, 0); f.state = 'idle';
+  for (let k = 0; k < 30; k++) animateRig(rig, f, 0.5, 0.05);
+  scene.add(rig.root);
+});
+r.render(scene, cam); window.done = true;
+</script></body></html>

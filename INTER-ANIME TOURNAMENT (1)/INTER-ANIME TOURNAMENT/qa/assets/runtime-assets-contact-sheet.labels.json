@@ -1,0 +1,137 @@
+[
+  {
+    "index": 1,
+    "src": "./assets/arena/background-tournament-arena-menu-1280x960.webp",
+    "label": "assets/arena/background-tournament-arena-menu-1280x960.webp · 1280x960",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  {
+    "index": 2,
+    "src": "./assets/cards/fighter-card-art-anos-voldigoad-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-anos-voldigoad-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 3,
+    "src": "./assets/cards/fighter-card-art-beerus-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-beerus-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 4,
+    "src": "./assets/cards/fighter-card-art-frieza-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-frieza-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 5,
+    "src": "./assets/cards/fighter-card-art-gogeta-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-gogeta-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 6,
+    "src": "./assets/cards/fighter-card-art-goku-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-goku-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 7,
+    "src": "./assets/cards/fighter-card-art-ichigo-kurosaki-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-ichigo-kurosaki-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 8,
+    "src": "./assets/cards/fighter-card-art-madara-uchiha-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-madara-uchiha-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 9,
+    "src": "./assets/cards/fighter-card-art-monkey-d-luffy-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-monkey-d-luffy-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 10,
+    "src": "./assets/cards/fighter-card-art-naruto-uzumaki-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-naruto-uzumaki-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 11,
+    "src": "./assets/cards/fighter-card-art-roronoa-zoro-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-roronoa-zoro-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 12,
+    "src": "./assets/cards/fighter-card-art-saitama-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-saitama-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 13,
+    "src": "./assets/cards/fighter-card-art-sasuke-uchiha-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-sasuke-uchiha-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 14,
+    "src": "./assets/cards/fighter-card-art-tanjiro-kamado-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-tanjiro-kamado-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  },
+  {
+    "index": 15,
+    "src": "./assets/cards/fighter-card-art-vegeta-select-grid-300x400.webp",
+    "label": "assets/cards/fighter-card-art-vegeta-select-grid-300x400.webp · 300x400",
+    "size": [
+      300,
+      400
+    ]
+  }
+]

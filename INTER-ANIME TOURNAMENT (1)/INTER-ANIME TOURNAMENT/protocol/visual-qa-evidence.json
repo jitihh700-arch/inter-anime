@@ -1,0 +1,174 @@
+{
+  "generatedAt": "2026-10-22T15:21:59.619877+00:00",
+  "screenshots": [
+    {
+      "path": "qa/screenshots/desktop-title.png",
+      "viewport": "desktop",
+      "purpose": "title menu (Versus / Arcade / Tournament / Controls / Sound)",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-select.png",
+      "viewport": "desktop",
+      "purpose": "17-slot character select",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-select-cpu-step.png",
+      "viewport": "desktop",
+      "purpose": "CPU opponent pick step",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-select-reserved-slot17.png",
+      "viewport": "desktop",
+      "purpose": "reserved slot 17 behaviour",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-vs-splash.png",
+      "viewport": "desktop",
+      "purpose": "VS splash",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-fight-beam-v2.png",
+      "viewport": "desktop",
+      "purpose": "live match: special charge + HUD",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-fight-final-zoro-vs-beerus.png",
+      "viewport": "desktop",
+      "purpose": "live match: sword combo + damage",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-fight-final-gogeta-vs-gojo.png",
+      "viewport": "desktop",
+      "purpose": "live match at ring boundary",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-pause.png",
+      "viewport": "desktop",
+      "purpose": "pause overlay",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-result.png",
+      "viewport": "desktop",
+      "purpose": "defeat result",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-result-win.png",
+      "viewport": "desktop",
+      "purpose": "win result in arcade",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-arcade-ladder-stage1.png",
+      "viewport": "desktop",
+      "purpose": "arcade ladder start",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-arcade-ladder-stage2.png",
+      "viewport": "desktop",
+      "purpose": "arcade progression after a real win",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-tournament-bracket-qf.png",
+      "viewport": "desktop",
+      "purpose": "tournament bracket quarterfinals",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-tournament-bracket-sf.png",
+      "viewport": "desktop",
+      "purpose": "bracket after quarterfinals",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/desktop-tournament-champion.png",
+      "viewport": "desktop",
+      "purpose": "champion screen",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/models-fighter-lineup-16-v2.png",
+      "viewport": "model-review",
+      "purpose": "all 16 fighter 3D rigs",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-title.png",
+      "viewport": "mobile-landscape",
+      "purpose": "mobile title",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-select.png",
+      "viewport": "mobile-landscape",
+      "purpose": "mobile select",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-fight.png",
+      "viewport": "mobile-landscape",
+      "purpose": "mobile match with touch controls",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-result.png",
+      "viewport": "mobile-landscape",
+      "purpose": "mobile result",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/mobile-portrait-rotate-prompt.png",
+      "viewport": "mobile-portrait",
+      "purpose": "portrait during match",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/mobile-portrait-title.png",
+      "viewport": "mobile-portrait",
+      "purpose": "portrait title",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/public-url-title.png",
+      "viewport": "published-url",
+      "purpose": "published Work page",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/screenshots/public-url-fight.png",
+      "viewport": "published-url",
+      "purpose": "live match on the published URL",
+      "status": "reviewed"
+    },
+    {
+      "path": "qa/assets/runtime-assets-contact-sheet-labeled.png",
+      "viewport": "asset-contact-sheet",
+      "purpose": "runtime asset identity and fit review",
+      "status": "reviewed"
+    }
+  ],
+  "checks": {
+    "brokenImages": "passed",
+    "layoutOverflow": "passed",
+    "assetVisibility": "passed",
+    "uiOcclusion": "passed",
+    "consoleErrors": "passed",
+    "publishedUrl": "passed"
+  },
+  "summary": {
+    "totalQaImages": 26,
+    "reviewedQaImages": 26,
+    "blockingVisualIssues": 0
+  }
+}

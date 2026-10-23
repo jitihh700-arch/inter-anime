@@ -1,0 +1,52 @@
+{
+  "protocolVersion": "1.0.0",
+  "workId": "inter-anime-tournament",
+  "workDir": "works/games/inter-anime-tournament",
+  "taskType": "playable-game",
+  "deliveryLevel": "strict-game-maker-production",
+  "reference": {
+    "enabled": false,
+    "targetProjectDir": "",
+    "inventoryPath": "protocol/target-project-file-inventory.json",
+    "gameplayPrincipleAnalysisPath": "protocol/gameplay-principle-analysis.md"
+  },
+  "assets": {
+    "requirementsPath": "protocol/asset-requirements.json",
+    "inventoryPath": "protocol/current-project-asset-inventory.json",
+    "fitReviewPath": "protocol/asset-fit-review.json"
+  },
+  "visualQa": {
+    "evidencePath": "protocol/visual-qa-evidence.json",
+    "semanticReviewPath": "protocol/semantic-visual-review.json",
+    "sourceThemeRiskGatePath": "protocol/source-theme-risk-gate.json"
+  },
+  "gameplayQa": {
+    "loopQaPath": "protocol/gameplay-loop-qa.json",
+    "mobileCoreLoopQaPath": "protocol/mobile-core-loop-qa.json"
+  },
+  "subskills": {
+    "executionPath": "protocol/subskill-execution.json"
+  },
+  "validation": {
+    "startup": {
+      "required": true,
+      "status": "pending",
+      "resultPath": "protocol/validation-startup.json"
+    },
+    "prebuild": {
+      "required": true,
+      "status": "pending",
+      "resultPath": "protocol/validation-prebuild.json"
+    },
+    "preqa": {
+      "required": true,
+      "status": "pending",
+      "resultPath": "protocol/validation-preqa.json"
+    },
+    "final": {
+      "required": true,
+      "status": "pending",
+      "resultPath": "protocol/validation-final.json"
+    }
+  }
+}

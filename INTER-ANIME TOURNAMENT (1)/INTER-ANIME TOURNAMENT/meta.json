@@ -1,0 +1,41 @@
+{
+  "status": "ready",
+  "sourceSessionId": "b7ee5590-a224-44b1-bed0-6af29e7c64b1",
+  "sourceTurnId": "3fa7d15f-9c9b-4e4f-8fff-d8c94d956104",
+  "title": "INTER-ANIME TOURNAMENT",
+  "serve": {
+    "kind": "static",
+    "entry": "index.html"
+  },
+  "cohubWorkId": "0cf05ae6-6e00-458e-b058-36707348b5fb",
+  "cohubWorkSlug": "inter-anime-tournament",
+  "cohubWorkScopes": [
+    "space.view",
+    "session.view",
+    "file.view",
+    "taskrun.view"
+  ],
+  "cohubAllowedViewerScopes": [
+    "session.prompt.readonly"
+  ],
+  "preview": {
+    "kind": "cohub-work",
+    "workId": "0cf05ae6-6e00-458e-b058-36707348b5fb",
+    "publishedAt": "2026-10-22T15:19:24.938Z",
+    "sourceVersion": "inter-anime-tournament#sha256:998caab25e4ea2abfc12f8c6133831e21d2002d979856643495adfd84bd4ec02"
+  },
+  "thumbnail": {
+    "status": "ready",
+    "url": "https://public.cohub.live/p/ade163cb-5a28-4159-93e4-fdfb69dbcbba/thumbnail/inter-anime-tournament/998caab25e4ea2abfc12f8c6133831e21d2002d979856643495adfd84bd4ec02.png",
+    "path": "thumbnail/inter-anime-tournament/998caab25e4ea2abfc12f8c6133831e21d2002d979856643495adfd84bd4ec02.png",
+    "publicPath": "thumbnail/inter-anime-tournament/998caab25e4ea2abfc12f8c6133831e21d2002d979856643495adfd84bd4ec02.png",
+    "width": 1440,
+    "height": 1200,
+    "type": "image/png",
+    "source": "screenshot",
+    "sourceUrl": "https://neta.art/w/0cf05ae6-6e00-458e-b058-36707348b5fb",
+    "sourceVersion": "inter-anime-tournament#sha256:998caab25e4ea2abfc12f8c6133831e21d2002d979856643495adfd84bd4ec02",
+    "generatedAt": "2026-10-22T15:19:50.857Z",
+    "updatedAt": "2026-10-22T15:19:50.857Z"
+  }
+}

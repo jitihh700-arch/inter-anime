@@ -1,0 +1,30 @@
+{
+  "kind": "game-maker-protocol-validation",
+  "protocolVersion": "1.0.0",
+  "stage": "prebuild",
+  "status": "passed",
+  "workDir": "works/games/inter-anime-tournament",
+  "generatedAt": "2026-10-22T15:02:01.980Z",
+  "gates": {
+    "contract": "works/games/inter-anime-tournament/gameplay.work.json",
+    "startupValidation": "passed",
+    "prebuildValidation": "passed",
+    "preqaValidation": "missing",
+    "finalValidation": "missing",
+    "deliveryLevel": "not-ready",
+    "referenceInventory": "not-applicable",
+    "assetIdentityAndFitGate": "passed",
+    "visualQaEvidence": "passed",
+    "semanticVisualReview": "passed",
+    "sourceThemeResidueGate": "not-applicable",
+    "gameplayLoopQa": "passed",
+    "mobileCoreLoopQa": "passed"
+  },
+  "missing": [],
+  "warnings": [],
+  "requiredNextActions": [],
+  "summary": {
+    "missingCount": 0,
+    "warningCount": 0
+  }
+}

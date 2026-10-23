@@ -1,0 +1,491 @@
+{
+  "workDir": "works/games/inter-anime-tournament",
+  "generatedAt": "2026-10-22T15:19:16.254159+00:00",
+  "assets": [
+    {
+      "path": "assets/cards/fighter-card-art-goku-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-goku",
+      "declaredIdentity": "Goku fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Goku.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-goku-cover-source.webp"
+      },
+      "reuseJustification": "This is the Goku card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-vegeta-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-vegeta",
+      "declaredIdentity": "Vegeta fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Vegeta.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-vegeta-cover-source.webp"
+      },
+      "reuseJustification": "This is the Vegeta card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-saitama-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-saitama",
+      "declaredIdentity": "Saitama fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Saitama.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-saitama-cover-source.webp"
+      },
+      "reuseJustification": "This is the Saitama card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-beerus-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-beerus",
+      "declaredIdentity": "Beerus fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Beerus.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-beerus-cover-source.webp"
+      },
+      "reuseJustification": "This is the Beerus card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-frieza-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-frieza",
+      "declaredIdentity": "Frieza fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Frieza.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-frieza-cover-source.webp"
+      },
+      "reuseJustification": "This is the Frieza card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-naruto-uzumaki-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-naruto-uzumaki",
+      "declaredIdentity": "Naruto Uzumaki fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Naruto Uzumaki.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-naruto-uzumaki-cover-source.webp"
+      },
+      "reuseJustification": "This is the Naruto Uzumaki card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-sasuke-uchiha-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-sasuke-uchiha",
+      "declaredIdentity": "Sasuke Uchiha fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Sasuke Uchiha.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-sasuke-uchiha-cover-source.webp"
+      },
+      "reuseJustification": "This is the Sasuke Uchiha card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-anos-voldigoad-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-anos-voldigoad",
+      "declaredIdentity": "Anos Voldigoad fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Anos Voldigoad.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-anos-voldigoad-cover-source.webp"
+      },
+      "reuseJustification": "This is the Anos Voldigoad card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-tanjiro-kamado-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-tanjiro-kamado",
+      "declaredIdentity": "Tanjiro Kamado fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Tanjiro Kamado.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-tanjiro-kamado-cover-source.webp"
+      },
+      "reuseJustification": "This is the Tanjiro Kamado card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-ichigo-kurosaki-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-ichigo-kurosaki",
+      "declaredIdentity": "Ichigo Kurosaki fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Ichigo Kurosaki.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-ichigo-kurosaki-cover-source.webp"
+      },
+      "reuseJustification": "This is the Ichigo Kurosaki card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-monkey-d-luffy-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-monkey-d-luffy",
+      "declaredIdentity": "Monkey D. Luffy fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Monkey D. Luffy.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-monkey-d-luffy-cover-source.webp"
+      },
+      "reuseJustification": "This is the Monkey D. Luffy card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-roronoa-zoro-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-roronoa-zoro",
+      "declaredIdentity": "Roronoa Zoro fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Roronoa Zoro.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-roronoa-zoro-cover-source.webp"
+      },
+      "reuseJustification": "This is the Roronoa Zoro card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-madara-uchiha-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-madara-uchiha",
+      "declaredIdentity": "Madara Uchiha fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Madara Uchiha.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-madara-uchiha-cover-source.webp"
+      },
+      "reuseJustification": "This is the Madara Uchiha card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/cards/fighter-card-art-gogeta-select-grid-300x400.webp",
+      "assetKey": "fighter-card-art-gogeta",
+      "declaredIdentity": "Gogeta fighter card art (opaque framed illustration)",
+      "kind": "card-illustration-opaque",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/characters/Gogeta.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/character-gogeta-cover-source.webp"
+      },
+      "reuseJustification": "This is the Gogeta card cover generated for this same world in the cel-shaded-3d-game style; resized 1536x2048 -> 300x400 for runtime.",
+      "runtimeUse": [
+        "select grid card",
+        "info panel",
+        "vs splash",
+        "hud badge",
+        "arcade ladder",
+        "tournament bracket",
+        "champion screen"
+      ],
+      "referencedBy": [
+        "js/engine/roster.js"
+      ],
+      "dimensions": {
+        "width": 300,
+        "height": 400
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    },
+    {
+      "path": "assets/arena/background-tournament-arena-menu-1280x960.webp",
+      "assetKey": "arena-menu-background",
+      "declaredIdentity": "Tournament Arena menu backdrop",
+      "kind": "background-illustration",
+      "source": {
+        "type": "workspace-reuse",
+        "originPath": "world/locations/Tournament Arena.md (cover generated for this world by Neta)",
+        "rawPath": "assets/raw/location-tournament-arena-cover-source.webp"
+      },
+      "reuseJustification": "It is the Tournament Arena card cover of this world: circular floor with glowing segmented rim, matching the in-game 3D arena.",
+      "runtimeUse": [
+        "title",
+        "select",
+        "ladder",
+        "bracket",
+        "champion backgrounds"
+      ],
+      "referencedBy": [
+        "css/style.css",
+        "index.html"
+      ],
+      "dimensions": {
+        "width": 1280,
+        "height": 960
+      },
+      "format": "webp",
+      "hasAlpha": false,
+      "fitReviewStatus": "approved-for-current-game",
+      "visualQaEvidence": "qa/assets/runtime-assets-contact-sheet-labeled.png"
+    }
+  ],
+  "summary": {
+    "totalAssets": 15,
+    "checkedAssets": 15,
+    "productionReadyAssets": 15,
+    "assetsNeedingReplacement": 0
+  }
+}

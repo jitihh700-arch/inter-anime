@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-10-22T15:19:16.254159+00:00",
+  "reviews": [
+    {
+      "assetKey": "fighter-card-art-goku",
+      "assetPath": "assets/cards/fighter-card-art-goku-select-grid-300x400.webp",
+      "expectedIdentity": "Goku as on the world's character card",
+      "observedIdentity": "Goku: spiky black hair, orange gi with blue undershirt",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Goku; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-vegeta",
+      "assetPath": "assets/cards/fighter-card-art-vegeta-select-grid-300x400.webp",
+      "expectedIdentity": "Vegeta as on the world's character card",
+      "observedIdentity": "Vegeta: tall black flame hair, blue bodysuit, white gloves",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Vegeta; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-saitama",
+      "assetPath": "assets/cards/fighter-card-art-saitama-select-grid-300x400.webp",
+      "expectedIdentity": "Saitama as on the world's character card",
+      "observedIdentity": "Saitama: bald, yellow jumpsuit, white cape, red gloves",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Saitama; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-beerus",
+      "assetPath": "assets/cards/fighter-card-art-beerus-select-grid-300x400.webp",
+      "expectedIdentity": "Beerus as on the world's character card",
+      "observedIdentity": "Beerus: purple feline god, tall ears, gold jewelry, blue trousers",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Beerus; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-frieza",
+      "assetPath": "assets/cards/fighter-card-art-frieza-select-grid-300x400.webp",
+      "expectedIdentity": "Frieza as on the world's character card",
+      "observedIdentity": "Frieza: white final form, purple dome, long tail",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Frieza; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-naruto-uzumaki",
+      "assetPath": "assets/cards/fighter-card-art-naruto-uzumaki-select-grid-300x400.webp",
+      "expectedIdentity": "Naruto Uzumaki as on the world's character card",
+      "observedIdentity": "Naruto Uzumaki: spiky blond hair, orange-black jumpsuit, headband",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Naruto Uzumaki; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-sasuke-uchiha",
+      "assetPath": "assets/cards/fighter-card-art-sasuke-uchiha-select-grid-300x400.webp",
+      "expectedIdentity": "Sasuke Uchiha as on the world's character card",
+      "observedIdentity": "Sasuke Uchiha: dark hair, red eyes, open grey collar, purple rope belt, katana",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Sasuke Uchiha; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-anos-voldigoad",
+      "assetPath": "assets/cards/fighter-card-art-anos-voldigoad-select-grid-300x400.webp",
+      "expectedIdentity": "Anos Voldigoad as on the world's character card",
+      "observedIdentity": "Anos Voldigoad: black hair, dark academy uniform with gold trim",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Anos Voldigoad; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-tanjiro-kamado",
+      "assetPath": "assets/cards/fighter-card-art-tanjiro-kamado-select-grid-300x400.webp",
+      "expectedIdentity": "Tanjiro Kamado as on the world's character card",
+      "observedIdentity": "Tanjiro Kamado: dark red hair, green-black checkered haori, katana",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Tanjiro Kamado; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-ichigo-kurosaki",
+      "assetPath": "assets/cards/fighter-card-art-ichigo-kurosaki-select-grid-300x400.webp",
+      "expectedIdentity": "Ichigo Kurosaki as on the world's character card",
+      "observedIdentity": "Ichigo Kurosaki: spiky orange hair, black shihakusho, huge cleaver blade",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Ichigo Kurosaki; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-monkey-d-luffy",
+      "assetPath": "assets/cards/fighter-card-art-monkey-d-luffy-select-grid-300x400.webp",
+      "expectedIdentity": "Monkey D. Luffy as on the world's character card",
+      "observedIdentity": "Monkey D. Luffy: straw hat, red open vest, fist forward",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Monkey D. Luffy; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-roronoa-zoro",
+      "assetPath": "assets/cards/fighter-card-art-roronoa-zoro-select-grid-300x400.webp",
+      "expectedIdentity": "Roronoa Zoro as on the world's character card",
+      "observedIdentity": "Roronoa Zoro: green hair, green robe, red sash, three katanas",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Roronoa Zoro; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-madara-uchiha",
+      "assetPath": "assets/cards/fighter-card-art-madara-uchiha-select-grid-300x400.webp",
+      "expectedIdentity": "Madara Uchiha as on the world's character card",
+      "observedIdentity": "Madara Uchiha: long spiky black hair, red Uchiha armor",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Madara Uchiha; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "fighter-card-art-gogeta",
+      "assetPath": "assets/cards/fighter-card-art-gogeta-select-grid-300x400.webp",
+      "expectedIdentity": "Gogeta as on the world's character card",
+      "observedIdentity": "Gogeta: spiky black hair, black-red vest with gold shoulders, orange sash",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-select.png"
+      ],
+      "fitSummary": "Opaque 3:4 card illustration of Gogeta; face in the upper third reads at grid size; no text or watermark; used framed (no cutout needed).",
+      "status": "approved-for-current-game"
+    },
+    {
+      "assetKey": "arena-menu-background",
+      "assetPath": "assets/arena/background-tournament-arena-menu-1280x960.webp",
+      "expectedIdentity": "The world's Tournament Arena",
+      "observedIdentity": "Circular stone arena floor with a glowing rainbow segmented rim under dramatic light",
+      "observedSourceThemeResidue": [],
+      "match": "passed",
+      "requirementMatch": "passed",
+      "identityMatch": "passed",
+      "gameplayRoleMatch": "passed",
+      "visualStyleMatch": "passed",
+      "runtimeFormatMatch": "passed",
+      "sourceAppropriateness": "passed",
+      "reviewEvidence": [
+        "qa/assets/runtime-assets-contact-sheet-labeled.png",
+        "qa/screenshots/desktop-title.png"
+      ],
+      "fitSummary": "Darkened by a gradient overlay, it gives every menu the arena's look while keeping text legible.",
+      "status": "approved-for-current-game"
+    }
+  ]
+}

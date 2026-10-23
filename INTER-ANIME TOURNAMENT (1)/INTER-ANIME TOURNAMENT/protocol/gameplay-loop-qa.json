@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "steps": [
+    {
+      "name": "select fighters",
+      "action": "Versus > click Goku > Confirm > click Frieza > Confirm",
+      "assertion": "match created with Goku (P1) vs Frieza (CPU), both 1000 HP",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-vs-splash.png"
+    },
+    {
+      "name": "move and attack",
+      "action": "hold W, press J x6, K, L (keyboard)",
+      "assertion": "player position changes, CPU HP drops only on connecting hits; special cooldown starts",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-fight-beam-v2.png"
+    },
+    {
+      "name": "block / dodge / jump",
+      "action": "hold I, Shift, Space",
+      "assertion": "state enters block/dodge; blocked hits deal reduced damage (blockstun)",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-fight-final-zoro-vs-beerus.png"
+    },
+    {
+      "name": "match resolves by real KO",
+      "action": "fight continues until a fighter reaches 0 HP",
+      "assertion": "match stops, KO announced, DEFEAT/WIN result with correct winner and HP 0 for loser",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-result.png"
+    },
+    {
+      "name": "rematch",
+      "action": "click Rematch",
+      "assertion": "new match, both fighters back at 1000 HP",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-pause.png"
+    },
+    {
+      "name": "arcade progression",
+      "action": "Arcade > Naruto > Fight until win > Continue",
+      "assertion": "stage 2/7, record 1-0, defeated opponent checked",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-arcade-ladder-stage2.png"
+    },
+    {
+      "name": "tournament to champion",
+      "action": "Tournament > Gogeta > win QF, SF, Final",
+      "assertion": "bracket advances only on real wins; CPU-vs-CPU matches decided by headless engine bouts; champion screen",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-tournament-champion.png"
+    },
+    {
+      "name": "slot 17 reserved",
+      "action": "click NEW CHALLENGER",
+      "assertion": "Confirm disabled, info says reserved",
+      "status": "passed",
+      "evidence": "qa/screenshots/desktop-select-reserved-slot17.png"
+    },
+    {
+      "name": "engine round-robin",
+      "action": "node qa/tests/sim-roundrobin.mjs (all 240 pairings, every special vs dummy)",
+      "assertion": "240/240 bouts end by KO; every special lands damage and sets cooldown",
+      "status": "passed",
+      "evidence": "qa/tests/sim-roundrobin-result.txt"
+    }
+  ],
+  "blockingIssues": []
+}

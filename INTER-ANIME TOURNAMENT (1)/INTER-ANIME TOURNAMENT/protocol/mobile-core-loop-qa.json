@@ -1,0 +1,36 @@
+{
+  "strategy": "landscape-first + virtual-controls (stick + 6 action buttons); portrait shows rotate prompt during matches",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "target-visible-or-reachable",
+      "status": "passed",
+      "evidence": "qa/screenshots/mobile-landscape-fight.png",
+      "note": "opponent framed by chase camera, HP bars visible"
+    },
+    {
+      "name": "primary-action-source-visible-or-reachable",
+      "status": "passed",
+      "evidence": "qa/screenshots/mobile-landscape-fight.png",
+      "note": "J/K/L/I/dodge/jump buttons reachable by thumb; tap J -> attack, tap L -> special (cooldown started)"
+    },
+    {
+      "name": "core-play-area-operable",
+      "status": "passed",
+      "evidence": "qa/screenshots/mobile-landscape-select.png",
+      "note": "stick drag moved the fighter (x -3.10 -> -2.89); select grid tappable"
+    },
+    {
+      "name": "core-loop-completed-on-mobile",
+      "status": "passed",
+      "evidence": "qa/screenshots/mobile-landscape-result.png",
+      "note": "match finished to result at 844x390; result buttons visible and tappable"
+    },
+    {
+      "name": "portrait-guidance",
+      "status": "passed",
+      "evidence": "qa/screenshots/mobile-portrait-rotate-prompt.png"
+    }
+  ],
+  "blockingIssues": []
+}

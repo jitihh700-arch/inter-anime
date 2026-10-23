@@ -1,0 +1,209 @@
+{
+  "generatedAt": "2026-10-22T15:21:59.619877+00:00",
+  "screenshots": [
+    {
+      "path": "qa/screenshots/desktop-title.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Title screen over the Tournament Arena backdrop: INTER-ANIME TOURNAMENT logo, three mode buttons with subtitles, Controls and Sound buttons; nothing clipped.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-select.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "6-column grid of 17 cards: 14 fighter portraits, gradient initial panels for Satoru Gojo (SG) and Ryomen Sukuna (RS), slot 17 a dashed NEW CHALLENGER card with a question mark; info panel shows Goku slot 01/17, style, Kamehameha special and stat bars; Back / Random Select / Confirm and CPU difficulty + mirror toggle visible.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-select-cpu-step.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Same grid with title CHOOSE YOUR CPU OPPONENT, Goku tagged P1, Frieza highlighted as cursor; Goku card dimmed because mirror matches are off.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-select-reserved-slot17.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "NEW CHALLENGER card selected: info panel says Reserved slot / To be revealed, Confirm button greyed out.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-vs-splash.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Goku card art left, Frieza card art right, gold VS in the centre with VERSUS label.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-fight-beam-v2.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Goku charging Kamehameha with a blue aura ring on the arena floor, Frieza across the ring; two health bars with names and HP 987/1000 and 1000/1000, special cooldown meters, 98 timer, pause button, controls guide bottom-left.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-fight-final-zoro-vs-beerus.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Zoro in green robe with swords raised hitting Beerus (718/1000, red lag bar), hit sparks, rainbow glowing ring edge and crowd lights in stands.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-fight-final-gogeta-vs-gojo.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Gogeta (835/1000) trading blows with Gojo at the arena edge; segmented glowing rim visible; camera keeps both fighters framed; Gojo HUD badge is an SG initial panel.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-pause.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "PAUSED panel with Resume, Restart Match, Character Select, Quit to Title over the dimmed match.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-result.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "DEFEAT result after a real KO: Frieza defeats Goku by K.O., stats table, Rematch / Continue / Character Select buttons.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-result-win.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "WIN result: Naruto Uzumaki defeats Frieza by K.O.; HP left, damage dealt, clean hits, best combo; Continue and Character Select.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-arcade-ladder-stage1.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Seven-card ladder with stage 1 highlighted and Gogeta as final challenger (pink border); next opponent line and record.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-arcade-ladder-stage2.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Stage 2/7, Frieza card checked off, Sasuke highlighted, record 1 win 0 losses.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-tournament-bracket-qf.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Bracket with four quarterfinal pairs, Gogeta marked YOU, semifinal/final/champion columns empty, Fight button naming the opponent.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-tournament-bracket-sf.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Winners carried forward with KO and HP results; CPU-vs-CPU results listed (Beerus def. Goku etc.); Fight Semifinal vs Beerus button.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/desktop-tournament-champion.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "CHAMPION panel with Gogeta card art, Won 3 matches, Title and Character Select buttons.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/models-fighter-lineup-16-v2.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Sixteen cel-shaded figures in two rows, each with distinct hair, outfit colours and props (Goku gi, Vegeta armor, Saitama cape, Beerus ears/tail, Frieza dome/tail, Naruto headband, Sasuke katana, Anos coat, Gojo white hair + blindfold, Sukuna pink hair, Tanjiro checkered haori, Ichigo cleaver, Luffy straw hat, Zoro three swords, Madara long hair + red armor, Gogeta vest).",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-title.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Title menu fits 844x390 without scrolling.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-select.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "9-column grid with all 17 slots, info panel and Back/Random/Confirm all visible at 844x390.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-fight.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Luffy firing Gum-Gum Gatling (callout text), virtual stick bottom-left, six round action buttons bottom-right, health bars and timer on top.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/mobile-landscape-result.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Result panel with Rematch, Continue, Character Select all inside the viewport.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/mobile-portrait-rotate-prompt.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Full-screen prompt asking to rotate to landscape; match is paused while it shows.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/mobile-portrait-title.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Title menu stacked in portrait, all buttons reachable.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/public-url-title.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Work page header with the game iframe showing the title menu.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    },
+    {
+      "path": "qa/screenshots/public-url-fight.png",
+      "expectedTheme": "INTER-ANIME TOURNAMENT: anime fighters in the glowing circular Tournament Arena",
+      "observedScene": "Sasuke sword combo against Madara (825/1000) inside the published Work page.",
+      "unexpectedSourceThemeResidue": [],
+      "layoutBlockers": [],
+      "semanticVerdict": "passed"
+    }
+  ],
+  "summary": {
+    "semanticVisualStatus": "passed",
+    "blockingIssues": 0
+  }
+}

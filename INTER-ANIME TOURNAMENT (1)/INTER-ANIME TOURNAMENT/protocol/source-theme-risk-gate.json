@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "sourceTheme": "not applicable (original game built from this world, no reference game)",
+  "targetTheme": "INTER-ANIME TOURNAMENT world",
+  "sourceThemeRiskTerms": [],
+  "allowedResidues": [],
+  "scanTargets": [],
+  "result": {
+    "status": "passed",
+    "hits": []
+  }
+}

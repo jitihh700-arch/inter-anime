@@ -1,0 +1,18 @@
+bouts 240 KO 240 median time 28.4 max 43.7 ms 656
+ichigo:24 luffy:23 gojo:20 gogeta:19 sasuke:16 tanjiro:16 zoro:15 frieza:15 goku:14 saitama:13 naruto:12 anos:12 sukuna:11 madara:11 vegeta:10 beerus:9
+goku     beam       dummy hp 832 cd 4.0
+vegeta   projectile dummy hp 825 cd 4.0
+saitama  punch      dummy hp 730 cd 10.0
+beerus   aoe        dummy hp 800 cd 5.0
+frieza   projectile dummy hp 810 cd 3.0
+naruto   clones     dummy hp 810 cd 5.0
+sasuke   dash       dummy hp 825 cd 4.0
+anos     projectile dummy hp 820 cd 4.0
+gojo     gojo       dummy hp 875 cd 6.0
+sukuna   flurry     dummy hp 808 cd 4.0
+tanjiro  dash       dummy hp 830 cd 4.0
+ichigo   projectile dummy hp 835 cd 3.5
+luffy    flurry     dummy hp 810 cd 4.0
+zoro     spin       dummy hp 808 cd 4.0
+madara   projectile dummy hp 815 cd 5.0
+gogeta   teleport   dummy hp 795 cd 6.0

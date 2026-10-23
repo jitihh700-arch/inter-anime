@@ -1,0 +1,310 @@
+{
+  "generatedAt": "2026-10-22T15:01:55.692722Z",
+  "gameVisualTarget": {
+    "theme": "INTER-ANIME TOURNAMENT: 16 anime fighters in one glowing circular Tournament Arena (MUGEN-inspired 3D fighting game)",
+    "artDirection": "Cel-shaded 3D anime game look (world visualStyle cel-shaded-3d-game): toon shading, dark outlines, dramatic arena lighting, glowing rim",
+    "camera": "Third-person chase camera behind the player that keeps the opponent framed; mouse orbit/zoom",
+    "tone": "High-energy anime tournament, dramatic and bright"
+  },
+  "requiredAssets": [
+    {
+      "assetKey": "fighter-card-art-goku",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Goku on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Goku, matching the world's existing Goku character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-vegeta",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Vegeta on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Vegeta, matching the world's existing Vegeta character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-saitama",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Saitama on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Saitama, matching the world's existing Saitama character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-beerus",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Beerus on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Beerus, matching the world's existing Beerus character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-frieza",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Frieza on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Frieza, matching the world's existing Frieza character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-naruto-uzumaki",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Naruto Uzumaki on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Naruto Uzumaki, matching the world's existing Naruto Uzumaki character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-sasuke-uchiha",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Sasuke Uchiha on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Sasuke Uchiha, matching the world's existing Sasuke Uchiha character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-anos-voldigoad",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Anos Voldigoad on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Anos Voldigoad, matching the world's existing Anos Voldigoad character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-tanjiro-kamado",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Tanjiro Kamado on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Tanjiro Kamado, matching the world's existing Tanjiro Kamado character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-ichigo-kurosaki",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Ichigo Kurosaki on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Ichigo Kurosaki, matching the world's existing Ichigo Kurosaki character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-monkey-d-luffy",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Monkey D. Luffy on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Monkey D. Luffy, matching the world's existing Monkey D. Luffy character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-roronoa-zoro",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Roronoa Zoro on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Roronoa Zoro, matching the world's existing Roronoa Zoro character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-madara-uchiha",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Madara Uchiha on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Madara Uchiha, matching the world's existing Madara Uchiha character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "fighter-card-art-gogeta",
+      "requiredKind": "select-card illustration (opaque, framed)",
+      "gameplayRole": "Fighter card art for Gogeta on the 17-slot select grid, info panel, VS splash, HUD badge, arcade ladder, bracket and champion screen",
+      "mustRepresent": "Gogeta, matching the world's existing Gogeta character card",
+      "mustSupport": "Instant recognition at small card sizes; top-weighted face crop",
+      "expectedRuntimeUse": [
+        "character select grid",
+        "fighter info panel",
+        "vs splash",
+        "hud badge",
+        "ladder",
+        "bracket"
+      ],
+      "requiredVisualTraits": [
+        "recognizable canonical look",
+        "cel-shaded 3D anime style",
+        "face in upper third"
+      ]
+    },
+    {
+      "assetKey": "arena-menu-background",
+      "requiredKind": "background illustration",
+      "gameplayRole": "Menu backdrop for title, select, ladder, bracket and champion screens",
+      "mustRepresent": "The world's Tournament Arena: circular floor ringed with glowing rim lights",
+      "mustSupport": "Readable menu text over a darkened gradient",
+      "expectedRuntimeUse": [
+        "title",
+        "select",
+        "ladder",
+        "bracket",
+        "champion"
+      ],
+      "requiredVisualTraits": [
+        "circular arena floor",
+        "glowing rim",
+        "dramatic lighting"
+      ]
+    }
+  ]
+}

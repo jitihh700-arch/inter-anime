@@ -1,0 +1,520 @@
+{
+  "root": "/workspace/works/games/inter-anime-tournament",
+  "assetInputs": [
+    "assets/cards",
+    "assets/arena"
+  ],
+  "count": 15,
+  "records": [
+    {
+      "path": "assets/arena/background-tournament-arena-menu-1280x960.webp",
+      "exists": true,
+      "bytes": 79806,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        1280,
+        960
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        1280,
+        960
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.007428,
+      "borderNearWhiteRatio": 0.000921
+    },
+    {
+      "path": "assets/cards/fighter-card-art-anos-voldigoad-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 13084,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.001208,
+      "borderNearWhiteRatio": 0.0
+    },
+    {
+      "path": "assets/cards/fighter-card-art-beerus-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 14290,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.000933,
+      "borderNearWhiteRatio": 0.0
+    },
+    {
+      "path": "assets/cards/fighter-card-art-frieza-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 12470,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.324725,
+      "borderNearWhiteRatio": 0.443661
+    },
+    {
+      "path": "assets/cards/fighter-card-art-gogeta-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 22278,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.006108,
+      "borderNearWhiteRatio": 0.004107
+    },
+    {
+      "path": "assets/cards/fighter-card-art-goku-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 17768,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.004817,
+      "borderNearWhiteRatio": 0.0
+    },
+    {
+      "path": "assets/cards/fighter-card-art-ichigo-kurosaki-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 14120,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.030667,
+      "borderNearWhiteRatio": 0.127679
+    },
+    {
+      "path": "assets/cards/fighter-card-art-madara-uchiha-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 14772,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 2.5e-05,
+      "borderNearWhiteRatio": 0.0
+    },
+    {
+      "path": "assets/cards/fighter-card-art-monkey-d-luffy-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 21022,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.005767,
+      "borderNearWhiteRatio": 0.0
+    },
+    {
+      "path": "assets/cards/fighter-card-art-naruto-uzumaki-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 10884,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.109125,
+      "borderNearWhiteRatio": 0.289375
+    },
+    {
+      "path": "assets/cards/fighter-card-art-roronoa-zoro-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 11826,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 4.2e-05,
+      "borderNearWhiteRatio": 0.0
+    },
+    {
+      "path": "assets/cards/fighter-card-art-saitama-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 14770,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.001,
+      "borderNearWhiteRatio": 0.000893
+    },
+    {
+      "path": "assets/cards/fighter-card-art-sasuke-uchiha-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 14076,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.000467,
+      "borderNearWhiteRatio": 0.0
+    },
+    {
+      "path": "assets/cards/fighter-card-art-tanjiro-kamado-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 15858,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.002333,
+      "borderNearWhiteRatio": 0.000357
+    },
+    {
+      "path": "assets/cards/fighter-card-art-vegeta-select-grid-300x400.webp",
+      "exists": true,
+      "bytes": 15106,
+      "decodeOk": true,
+      "warnings": [
+        "visible_content_touches_or_nearly_fills_image",
+        "alpha_bbox_touches_edge:left,top,right,bottom"
+      ],
+      "severity": "major",
+      "format": "WEBP",
+      "mode": "RGB",
+      "size": [
+        300,
+        400
+      ],
+      "alphaBBox": [
+        0,
+        0,
+        300,
+        400
+      ],
+      "hasAlpha": false,
+      "nontransparentRatio": 1.0,
+      "occupancy": 1.0,
+      "edgeTouch": [
+        "left",
+        "top",
+        "right",
+        "bottom"
+      ],
+      "nearWhiteRatio": 0.001333,
+      "borderNearWhiteRatio": 0.005804
+    }
+  ]
+}
