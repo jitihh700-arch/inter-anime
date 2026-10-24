@@ -8,7 +8,7 @@ export function buildArena(scene) {
   const group = new THREE.Group();
   scene.add(group);
 
-  scene.background = new THREE.Color(0x0c0a1f);
+scene.background = null;
   scene.fog = new THREE.Fog(0x0e0a24, 30, 90);
 
   // sky dome with vertical gradient (violet → deep blue → gold horizon haze)
@@ -25,7 +25,7 @@ export function buildArena(scene) {
         c += vec3(0.25,0.5,0.9) * pow(band, 6.0) * smoothstep(0.15, 0.6, h) * 0.35;
         gl_FragColor = vec4(c, 1.0); }`
   });
-  const sky = new THREE.Mesh(skyGeo, skyMat); group.add(sky);
+ // Le dôme opaque est désactivé pour laisser apparaître l'image.
 
   // floor — radial tiles with vertex colours: pale centre, blue-violet outer field
   const floorGeo = new THREE.CircleGeometry(ARENA_R + 0.6, 96, 0, Math.PI * 2);
